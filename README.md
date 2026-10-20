@@ -93,7 +93,7 @@ FinTech · Nairobi, Kenya · 50,000+ users
     <img src="https://img.shields.io/badge/Email-eugylumbasi%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://www.linkedin.com/in/eugene-lumbasi">
+  <a href="https://www.linkedin.com/in/eugene-j-b8738119b">
     <img src="https://img.shields.io/badge/LinkedIn-Eugene%20Lumbasi-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </p>
