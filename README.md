@@ -97,5 +97,3 @@ FinTech · Nairobi, Kenya · 50,000+ users
     <img src="https://img.shields.io/badge/LinkedIn-Eugene%20Lumbasi-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </p>
-
-<p align="center"><i>Open to remote Senior Android Engineer roles globally.</i></p>
