@@ -8,16 +8,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=EUGENE2333&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165"/>
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EUGENE2333&layout=compact&theme=tokyonight&hide_border=true&langs_count=6" height="165"/>
-</p>
-
----
-
 ## 🛠 Skills
 
 <table>
@@ -63,26 +53,6 @@
 | [Waliin](https://play.google.com/store/apps/details?id=com.waliin) | Android | 50,000+ active | Kotlin · Compose · WebRTC · WebSocket |
 | [Tea'd](https://play.google.com/store/apps/details?id=com.spillthetea.tead) | Android | Live on Play Store | Kotlin · Jetpack Compose |
 | Calorica | iOS | Live on App Store | Swift · SwiftUI |
-
----
-
-## 💼 Experience
-
-**Senior Android Engineer @ Waliin** *(Oct 2024 – Present)*  
-Consumer social platform · New York, USA (Remote) · 50,000+ active users
-> Built the full Android app in Kotlin and Jetpack Compose. Real-time features via WebRTC and WebSocket. 99.6% crash-free rate.
-
-**Senior Android Engineer @ Memo Neet** *(Jan 2023 – Sep 2024)*  
-EdTech platform · New Delhi, India (Remote) · 1,000,000+ users
-> Led full architecture migration to Clean Architecture + Compose. Maintained 99.7% crash-free rate across a 1M+ user base.
-
-**Android Engineer @ Kune Food** *(Jan 2021 – Dec 2022)*  
-Consumer marketplace · Nairobi, Kenya · 55,000+ transactions
-> Built Android app from scratch. Raised Play Store rating from 3.8 → 4.5.
-
-**Android Engineer @ Ellixar Technologies** *(Jan 2019 – Dec 2021)*  
-FinTech · Nairobi, Kenya · 50,000+ users
-> Delivered 99.9% transaction success rate across native Android FinTech products.
 
 ---
 
