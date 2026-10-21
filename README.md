@@ -1,27 +1,42 @@
 <pre>
-       ___
-          |_|_|
-          |_|_|              _____
-          |_|_|     ____    |*_*_*|
- _______   _\__\___/ __ \____|_|_   _______
-/ ____  |=|      \  <_+>  /      |=|  ____ \
-~|    |\|=|======\\______//======|=|/|    |~
- |_   |    \      |      |      /    |    |
-  \==-|     \     |      |     /     |----|~~/      SKILLS
-  |   |      |    |      |    |      |____/~/        ──────────────────────────────────────────
-  |   |       \____\____/____/      /    / /         Android SDK · Jetpack Suite · Kotlin
-  |   |         {----------}       /____/ /          Clean Architecture · MVVM · Hilt
-  |___|        /~~~~~~~~~~~~\     |_/~|_|/           REST APIs · Firebase · Local Persistence
-   \_/        |/~~~~~||~~~~~\|     /__|\              iOS · Swift · Java · WebRTC · AWS S3
-   | |         |    ||||    |     (/|| \)             GitHub Actions · CI/CD · Play Console
-   | |        /     |  |     \       \\               System Design · Agile · Code Review
-   |_|        |     |  |     |
-              |_____|  |_____|                        📬  GET IN TOUCH
-              (_____)  (_____)                        ─────────────────────────────────────────
-              |     |  |     |                        Email    →  eugylumbasi@gmail.com
-              |     |  |     |                        LinkedIn →  linkedin.com/in/eugene-j-b8738119b
-              |/~~~\|  |/~~~\|
-              /|___|\  /|___|\
-             <_______><_______>
+                       /T /I
+                              / |/ | .-~/
+                          T\ Y  I  |/  /  _
+         /T               | \I  |  I  Y.-~/
+        I l   /I       T\ |  |  l  |  T  /
+     T\ |  \ Y l  /T   | \I  l   \ `  l Y
+ __  | \l   \l  \I l __l  l   \   `  _. |
+ \ ~-l  `\   `\  \  \\ ~\  \   `. .-~   |
+  \   ~-. "-.  `  \  ^._ ^. "-.  /  \   |
+.--~-._  ~-  `  _  ~-_.-"-." ._ /._ ." ./
+ >--.  ~-.   ._  ~>-"    "\\   7   7   ]                               SKILLS
+^.___~"--._    ~-{  .-~ .  `\ Y . /    |                             ──────────────────────────────────────
+ <__ ~"-.  ~       /_/   \   \I  Y   : |                               Android SDK · Jetpack Suite · Kotlin
+   ^-.__           ~(_/   \   >._:   | l______                         Clean Architecture · MVVM · Hilt
+       ^--.,___.-~"  /_/   !  `-.~"--l_ /     ~"-                      REST APIs · Firebase · Local Persistence
+              (_/ .  ~(   /'     "~"--,Y   -=b-. _)                    iOS · Swift · Java · WebRTC · AWS S3
+               (_/ .  \  :           / l      c"~o\                    GitHub Actions · CI/CD · Play Console
+                \ /    `.    .     .^   \_.-~"~--.  )                  System Design · Agile · Code Review
+                 (_/ .   `  /     /       !       )/
+                  / / _.   '.   .':      /        '
+                  ~(_/ .   /    _  `  .-<_
+                    /_/ . ' .-~" `.  / \  \
+                    ~( /   '  :   | K   "-.~-.______//
+                      "-,.    l   I/ \_    __{--->._(==.
+                       //(     \  <    ~"~"     //
+                      /' /\     \  \     ,v=.  ((
+                    .^. / /\     "  }__ //===-  `
+                   / / ' '  "-.,__ {---(==-
+                 .^ '       :  T  ~"   ll
+                / .  .  . : | :!        \\
+               (_/  /   | | j-"          ~^
+                 ~-<_(_.^-~"
 
 </pre>
+
+---
+
+📬 **GET IN TOUCH**
+
+[![Email](https://img.shields.io/badge/Email-eugylumbasi%40gmail.com-blue?style=flat&logo=gmail)](mailto:eugylumbasi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eugene%20Juma-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/eugene-j-b8738119b)
