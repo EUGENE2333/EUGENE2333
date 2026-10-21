@@ -18,9 +18,9 @@
                (_/ .  \  :           / l      c"~o\                  GitHub Actions · CI/CD · Play Console
                 \ /    `.    .     .^   \_.-~"~--.  )                System Design · Agile · Code Review
                  (_/ .   `  /     /       !       )/
-                  / / _.   '.   .':      /        '                📬  GET IN TOUCH
-                  ~(_/ .   /    _  `  .-<_                          Email    →  eugylumbasi@gmail.com
-                    /_/ . ' .-~" `.  / \  \                         LinkedIn →  linkedin.com/in/eugene-j-b8738119b
+                  / / _.   '.   .':      /        '               
+                  ~(_/ .   /    _  `  .-<_                         
+                    /_/ . ' .-~" `.  / \  \                         
                     ~( /   '  :   | K   "-.~-.______//
                       "-,.    l   I/ \_    __{--->._(==.
                        //(     \  <    ~"~"     //
