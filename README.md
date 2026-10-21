@@ -1,13 +1,3 @@
-# Hey, I'm EUGENE2333 👋
-
-<p align="center">
-  <b>Senior Android Engineer &nbsp;·&nbsp; Available Remotely</b><br/>
-  I build native Android apps in Kotlin that ship to hundreds of thousands of users.<br/>
-  7+ years across consumer social, EdTech, and FinTech.
-</p>
-
----
-
 ## 🛠 Skills
 
 <table>
