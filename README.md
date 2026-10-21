@@ -9,19 +9,19 @@
  \ ~-l  `\   `\  \  \\ ~\  \   `. .-~   |
   \   ~-. "-.  `  \  ^._ ^. "-.  /  \   |
 .--~-._  ~-  `  _  ~-_.-"-." ._ /._ ." ./
- >--.  ~-.   ._  ~>-"    "\\   7   7   ]                   I USE DAILY          I ALSO KNOW        TOOLS & CI/CD
-^.___~"--._    ~-{  .-~ .  `\ Y . /    |                   ─────────────        ───────────        ─────────────
- <__ ~"-.  ~       /_/   \   \I  Y   : |                     Kotlin               Swift              GitHub Actions
-   ^-.__           ~(_/   \   >._:   | l______               Jetpack Compose      SwiftUI            Android Studio
-       ^--.,___.-~"  /_/   !  `-.~"--l_ /     ~"-            Android SDK          Java               Git
-              (_/ .  ~(   /'     "~"--,Y   -=b-. _)          Firebase           RxJava             Gradle
-               (_/ .  \  :           / l      c"~o\          Room               AWS S3             Play Console
-                \ /    `.    .     .^   \_.-~"~--.  )        Retrofit         WebRTC             Hilt / Dagger
+ >--.  ~-.   ._  ~>-"    "\\   7   7   ]                              SKILLS
+^.___~"--._    ~-{  .-~ .  `\ Y . /    |                            ──────────────────────────────────────
+ <__ ~"-.  ~       /_/   \   \I  Y   : |                             Android SDK · Jetpack Suite · Kotlin
+   ^-.__           ~(_/   \   >._:   | l______                       Clean Architecture · MVVM · Hilt
+       ^--.,___.-~"  /_/   !  `-.~"--l_ /     ~"-                    REST APIs · Firebase · Local Persistence
+              (_/ .  ~(   /'     "~"--,Y   -=b-. _)                  iOS · Swift · Java · WebRTC · AWS S3
+               (_/ .  \  :           / l      c"~o\                  GitHub Actions · CI/CD · Play Console
+                \ /    `.    .     .^   \_.-~"~--.  )                System Design · Agile · Code Review
                  (_/ .   `  /     /       !       )/
-                  / / _.   '.   .':      /        '          📬  GET IN TOUCH
-                  ~(_/ .   /    _  `  .-<_                ─────────────────────────────────────────
-                    /_/ . ' .-~" `.  / \  \                 Email    →  eugylumbasi@gmail.com
-                    ~( /   '  :   | K   "-.~-.______//      LinkedIn →  linkedin.com/in/eugene-j-b8738119b
+                  / / _.   '.   .':      /        '                📬  GET IN TOUCH
+                  ~(_/ .   /    _  `  .-<_                          Email    →  eugylumbasi@gmail.com
+                    /_/ . ' .-~" `.  / \  \                         LinkedIn →  linkedin.com/in/eugene-j-b8738119b
+                    ~( /   '  :   | K   "-.~-.______//
                       "-,.    l   I/ \_    __{--->._(==.
                        //(     \  <    ~"~"     //
                       /' /\     \  \     ,v=.  ((
@@ -33,3 +33,10 @@
                  ~-<_(_.^-~"
 
 </pre>
+
+---
+
+📬 **GET IN TOUCH**
+
+[![Email](https://img.shields.io/badge/Email-eugylumbasi%40gmail.com-blue?style=flat&logo=gmail)](mailto:eugylumbasi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Eugene%20Juma-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/eugene-j-b8738119b)
