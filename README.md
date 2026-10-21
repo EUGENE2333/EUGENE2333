@@ -61,8 +61,6 @@ Kotlin · Jetpack Compose · Clean Architecture · 7+ years
 
 ## 📬 Get in Touch
 
-🟢 &nbsp;**Open to remote Senior Android Engineer roles**
-
 <a href="mailto:eugylumbasi@gmail.com">
   <img src="https://img.shields.io/badge/Email-eugylumbasi%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"/>
 </a>
