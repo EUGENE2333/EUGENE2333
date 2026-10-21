@@ -1,7 +1,7 @@
-# Hi there, I'm Eugene Lumbasi 👋
+# Hey, I'm EUGENE2333 👋
 
 <p align="center">
-  <b>Senior Android Engineer &nbsp;·&nbsp; Nairobi, Kenya &nbsp;·&nbsp; Available Remotely</b><br/>
+  <b>Senior Android Engineer &nbsp;·&nbsp; Available Remotely</b><br/>
   I build native Android apps in Kotlin that ship to hundreds of thousands of users.<br/>
   7+ years across consumer social, EdTech, and FinTech.
 </p>
@@ -46,16 +46,6 @@
 
 ---
 
-## 🚀 Shipped Apps
-
-| App | Platform | Users | Stack |
-|-----|----------|-------|-------|
-| [Waliin](https://play.google.com/store/apps/details?id=com.waliin) | Android | 50,000+ active | Kotlin · Compose · WebRTC · WebSocket |
-| [Tea'd](https://play.google.com/store/apps/details?id=com.spillthetea.tead) | Android | Live on Play Store | Kotlin · Jetpack Compose |
-| Calorica | iOS | Live on App Store | Swift · SwiftUI |
-
----
-
 ## 📫 Get in Touch
 
 <p align="center">
@@ -64,6 +54,6 @@
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/eugene-j-b8738119b">
-    <img src="https://img.shields.io/badge/LinkedIn-Eugene%20Lumbasi-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
 </p>
