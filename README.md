@@ -40,3 +40,4 @@
 
 [![Email](https://img.shields.io/badge/Email-eugylumbasi%40gmail.com-blue?style=flat&logo=gmail)](mailto:eugylumbasi@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Eugene%20Juma-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/eugene-j-b8738119b)
+[![Portfolio](https://img.shields.io/badge/Portfolio-EUGENE2333.github.io-black?style=flat&logo=github)](https://EUGENE2333.github.io)
